@@ -7,7 +7,7 @@ import firebase from "../Config/firebase";
 
 
 
-import Producto from "../Components/Producto";
+import Product from "../Components/Producto";
 
 
 

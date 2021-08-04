@@ -31,7 +31,7 @@ export default function Home() {
 
     return (
         <div className="container">
-            <div className="card-group">
+            <div className="card-group" >
                 {productos.map((item) => (
                 <Producto data={item} id={{ ...productos }} />
                 ))}

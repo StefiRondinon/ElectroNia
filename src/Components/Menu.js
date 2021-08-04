@@ -16,7 +16,9 @@ function Menu() {
                     <a className="nav-link" href="/ingresar">Login</a>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link disabled" href="/productos" tabindex="-1" aria-disabled="true">Detalle de Producto</a>
+                <a className="nav-link" href="/producto">Productos</a>
+
+                {/* <a className="nav-link disabled" href="/productos" tabindex="-1" aria-disabled="true">Detalle de Producto</a> */}
                 </li>
             </ul>
         </div>
